@@ -177,4 +177,170 @@ LogInit: Object subsystem initialized
 [2016.07.13-15.31.35:702][  0]LogRenderer: Reallocating scene render targets to support 1056x556 (Frame:2).
 [2016.07.13-15.31.35:746][  1]LogAssetRegistry: Asset discovery search completed in 3.0910 seconds
 [2016.07.13-15.31.35:746][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2016.07.13-15.31.
+[2016.07.13-15.31.35:746][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000019 seconds (updated 0 objects)
+[2016.07.13-15.36.17:420][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.07.13-15.36.17:420][339]PIE: New page: PIE session: Untitled_1 (Jul 13, 2016, 6:36:17 PM)
+[2016.07.13-15.36.17:421][339]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.07.13-15.36.17:422][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001508s)
+[2016.07.13-15.36.17:423][339]LogAIModule: Creating AISystem for world Untitled_1
+[2016.07.13-15.36.17:423][339]LogPlayLevel: PIE: World Init took: (0.000675s)
+[2016.07.13-15.36.17:423][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002395s)
+[2016.07.13-15.36.17:445][339]LogInit: XAudio2 using 'Luidsprekers (Logicool G430 Gaming Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.07.13-15.36.17:451][339]LogInit: FAudioDevice initialized.
+[2016.07.13-15.36.17:509][339]LogWorld: Game class is 'GameMode'
+[2016.07.13-15.36.17:511][339]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2016.07.13-17.36.17
+[2016.07.13-15.36.17:511][339]LogWorld: Bringing up level for play took: 0.001126
+[2016.07.13-15.36.17:517][339]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2016.07.13-15.36.17:517][339]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.592
+[2016.07.13-15.36.17:532][340]LogRenderer: Reallocating scene render targets to support 1480x776 (Frame:2572).
+[2016.07.13-15.38.47:538][743]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.07.13-15.38.47:539][743]PIE: New page: PIE session: Untitled_1 (Jul 13, 2016, 6:38:47 PM)
+[2016.07.13-15.38.47:539][743]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.07.13-15.38.47:540][743]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001228s)
+[2016.07.13-15.38.47:540][743]LogAIModule: Creating AISystem for world Untitled_1
+[2016.07.13-15.38.47:540][743]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2016.07.13-15.38.47:541][743]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.001937s)
+[2016.07.13-15.38.47:558][743]LogInit: XAudio2 using 'Luidsprekers (Logicool G430 Gaming Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.07.13-15.38.47:563][743]LogInit: FAudioDevice initialized.
+[2016.07.13-15.38.47:663][743]LogWorld: Game class is 'GameMode'
+[2016.07.13-15.38.47:664][743]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2016.07.13-17.38.47
+[2016.07.13-15.38.47:664][743]LogWorld: Bringing up level for play took: 0.001345
+[2016.07.13-15.38.47:684][743]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 -0.426
+[2016.07.13-15.38.47:687][744]LogRenderer: Reallocating scene render targets to support 3024x1680 (Frame:5628).
+[2016.07.13-15.41.24:815][468]LogMetaData: Removing '/Game/VR_Gamemode.VR_Gamemode:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.41.24:815][468]LogMetaData: Removing '/Game/VR_Gamemode.SKEL_VR_Gamemode_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.41.24:815][468]LogMetaData: Removing '/Game/VR_Gamemode.VR_Gamemode_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.41.24:815][468]LogMetaData: Removing '/Game/VR_Gamemode.VR_Gamemode:EventGraph.K2Node_Event_0' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.41.24:815][468]LogMetaData: Removing '/Game/VR_Gamemode.VR_Gamemode:EventGraph.K2Node_Event_1' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.41.24:839][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Gamemode" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset" SILENT=true
+[2016.07.13-15.41.24:850][468]LogSavePackage: Save=8.20ms
+[2016.07.13-15.41.24:850][468]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/VR_GamemodeA0D306B341C3CF5DD2DAB099F90DFCD2.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset'
+[2016.07.13-15.41.24:853][468]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset
+[2016.07.13-15.41.34:659][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Gamemode" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset" SILENT=true
+[2016.07.13-15.41.34:670][478]LogSavePackage: Save=7.30ms
+[2016.07.13-15.41.34:670][478]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/VR_GamemodeD0EA8367484BAFF34C4D55B00E76DC2A.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset'
+[2016.07.13-15.41.34:671][478]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset
+[2016.07.13-15.42.01:013][513]LogMetaData: Removing '/Game/VR_Pawn.VR_Pawn:EventGraph.K2Node_Event_3' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.42.01:013][513]LogMetaData: Removing '/Game/VR_Pawn.VR_Pawn:EventGraph.K2Node_Event_2' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.42.01:013][513]LogMetaData: Removing '/Game/VR_Pawn.VR_Pawn_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.42.01:013][513]LogMetaData: Removing '/Game/VR_Pawn.SKEL_VR_Pawn_C' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.42.01:013][513]LogMetaData: Removing '/Game/VR_Pawn.VR_Pawn:UserConstructionScript.K2Node_FunctionEntry_1' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.42.01:013][513]LogMetaData: Removing '/Game/VR_Pawn.VR_Pawn:EventGraph.K2Node_Event_4' ref from Metadata '/Game/NewBlueprint.PackageMetaData'
+[2016.07.13-15.42.01:026][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset" SILENT=true
+[2016.07.13-15.42.01:036][513]LogSavePackage: Save=7.19ms
+[2016.07.13-15.42.01:036][513]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/VR_Pawn45C09A8045CC85B703BEB68A5C62E474.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset'
+[2016.07.13-15.42.01:037][513]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset
+[2016.07.13-15.42.20:679][959]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 111 classes and 0 folders.
+[2016.07.13-15.42.25:855][462]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.018
+[2016.07.13-15.42.25:856][462]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewBlueprint" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/Autosaves/Game/NewBlueprint_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2016.07.13-15.42.25:860][462]LogSavePackage: Save=2.75ms
+[2016.07.13-15.42.25:860][462]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/NewBlueprint_Auto1D3C6948344DD3DCB9AA50BBE07770115.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/Autosaves/Game/NewBlueprint_Auto1.uasset'
+[2016.07.13-15.42.25:860][462]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/Autosaves/Game/NewBlueprint_Auto1.uasset
+[2016.07.13-15.42.25:860][462]LogFileHelpers: Auto-saving content packages took 0.004
+[2016.07.13-15.42.45:256][322]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.07.13-15.43.23:042][ 39]BlueprintLog: New page: Compile VR_GameMode
+[2016.07.13-15.43.23:134][ 39]BlueprintEditorCompileResults: Info [0713.00] Compile of VR_GameMode successful! [in 92 ms] (/Game/VR_Gamemode.VR_GameMode)
+[2016.07.13-15.44.54:872][803]BlueprintLog: New page: Compile VR_GameMode
+[2016.07.13-15.44.54:928][803]BlueprintEditorCompileResults: Info [0804.80] Compile of VR_GameMode successful! [in 56 ms] (/Game/VR_Gamemode.VR_GameMode)
+[2016.07.13-15.45.05:208][ 22]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2016.07.13-15.45.09:748][564]Cmd: UpdateLandscapeSetup
+[2016.07.13-15.48.10:670][501]LogEditorTransaction: Undo Make New Scene Root
+[2016.07.13-15.48.11:505][580]LogEditorTransaction: Undo Attach Component
+[2016.07.13-15.48.15:245][ 23]LogEditorTransaction: Undo Attach Component
+[2016.07.13-15.48.49:138][443]BlueprintLog: New page: Compile VR_Pawn
+[2016.07.13-15.48.49:243][443]BlueprintEditorCompileResults: Info [1039.11] Compile of VR_Pawn successful! [in 104 ms] (/Game/VR_Pawn.VR_Pawn)
+[2016.07.13-15.48.50:673][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset" SILENT=true
+[2016.07.13-15.48.50:689][609]LogSavePackage: Save=10.49ms
+[2016.07.13-15.48.50:689][609]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/VR_Pawn3E6833E14DE199CF97CB53AD127A6FDC.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset'
+[2016.07.13-15.48.50:690][609]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset
+[2016.07.13-15.48.55:783][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Gamemode" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset" SILENT=true
+[2016.07.13-15.48.55:795][212]LogSavePackage: Save=7.32ms
+[2016.07.13-15.48.55:795][212]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/VR_Gamemode4E7C66794CE3B252CEEF1EBA1400DD9C.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset'
+[2016.07.13-15.48.55:795][212]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset
+[2016.07.13-15.49.30:903][537]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2016.07.13-15.50.18:411][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Gamemode" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset" SILENT=true
+[2016.07.13-15.50.18:419][872]LogSavePackage: Save=7.62ms
+[2016.07.13-15.50.18:419][872]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/VR_GamemodeCF42CD4E445514E81FA1408145F831A5.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset'
+[2016.07.13-15.50.18:420][872]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Gamemode.uasset
+[2016.07.13-15.50.19:825][ 40]BlueprintLog: New page: Compile VR_GameMode
+[2016.07.13-15.50.19:883][ 40]BlueprintEditorCompileResults: Info [1129.75] Compile of VR_GameMode successful! [in 58 ms] (/Game/VR_Gamemode.VR_GameMode)
+[2016.07.13-15.50.20:751][142]BlueprintLog: New page: Compile VR_Pawn
+[2016.07.13-15.50.20:807][142]BlueprintEditorCompileResults: Info [1130.67] Compile of VR_Pawn successful! [in 56 ms] (/Game/VR_Pawn.VR_Pawn)
+[2016.07.13-15.50.21:199][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset" SILENT=true
+[2016.07.13-15.50.21:209][185]LogSavePackage: Save=9.26ms
+[2016.07.13-15.50.21:209][185]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/VR_Pawn73088FE54B5B715E635FA88C2CB13400.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset'
+[2016.07.13-15.50.21:210][185]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset
+[2016.07.13-15.50.28:810][ 89]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.07.13-15.50.28:810][ 89]PIE: New page: PIE session: Untitled_1 (Jul 13, 2016, 6:50:28 PM)
+[2016.07.13-15.50.28:810][ 89]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.07.13-15.50.28:811][ 89]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001659s)
+[2016.07.13-15.50.28:812][ 89]LogAIModule: Creating AISystem for world Untitled_1
+[2016.07.13-15.50.28:812][ 89]LogPlayLevel: PIE: World Init took: (0.000795s)
+[2016.07.13-15.50.28:812][ 89]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002618s)
+[2016.07.13-15.50.28:835][ 89]LogInit: XAudio2 using 'Luidsprekers (Logicool G430 Gaming Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.07.13-15.50.28:841][ 89]LogInit: FAudioDevice initialized.
+[2016.07.13-15.50.28:947][ 89]LogWorld: Game class is 'VR_GameMode_C'
+[2016.07.13-15.50.28:949][ 89]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2016.07.13-17.50.28
+[2016.07.13-15.50.28:950][ 89]LogWorld: Bringing up level for play took: 0.001131
+[2016.07.13-15.50.28:990][ 89]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.88
+[2016.07.13-15.51.31:961][ 45]BlueprintLog: New page: Compile VR_Pawn
+[2016.07.13-15.51.32:017][ 45]BlueprintEditorCompileResults: Info [1201.88] Compile of VR_Pawn successful! [in 56 ms] (/Game/VR_Pawn.VR_Pawn)
+[2016.07.13-15.51.32:905][145]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset" SILENT=true
+[2016.07.13-15.51.32:916][145]LogSavePackage: Save=9.57ms
+[2016.07.13-15.51.32:916][145]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/VR_Pawn48CEB793489E88AB941B769AB717F0A6.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset'
+[2016.07.13-15.51.32:917][145]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset
+[2016.07.13-15.51.36:834][417]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.07.13-15.51.36:834][417]PIE: New page: PIE session: Untitled_1 (Jul 13, 2016, 6:51:36 PM)
+[2016.07.13-15.51.36:834][417]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.07.13-15.51.36:835][417]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001370s)
+[2016.07.13-15.51.36:835][417]LogAIModule: Creating AISystem for world Untitled_1
+[2016.07.13-15.51.36:835][417]LogPlayLevel: PIE: World Init took: (0.000585s)
+[2016.07.13-15.51.36:836][417]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002154s)
+[2016.07.13-15.51.36:860][417]LogInit: XAudio2 using 'Luidsprekers (Logicool G430 Gaming Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.07.13-15.51.36:865][417]LogInit: FAudioDevice initialized.
+[2016.07.13-15.51.36:972][417]LogWorld: Game class is 'VR_GameMode_C'
+[2016.07.13-15.51.36:974][417]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2016.07.13-17.51.36
+[2016.07.13-15.51.36:975][417]LogWorld: Bringing up level for play took: 0.001223
+[2016.07.13-15.51.37:023][417]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.913
+[2016.07.13-15.52.06:383][362]BlueprintLog: New page: Compile VR_Pawn
+[2016.07.13-15.52.06:440][362]BlueprintEditorCompileResults: Info [1236.31] Compile of VR_Pawn successful! [in 57 ms] (/Game/VR_Pawn.VR_Pawn)
+[2016.07.13-15.52.07:039][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset" SILENT=true
+[2016.07.13-15.52.07:048][429]LogSavePackage: Save=8.89ms
+[2016.07.13-15.52.07:048][429]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/VR_Pawn71EFD56441E6B9CA68B0F1A6DBA5A377.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset'
+[2016.07.13-15.52.07:049][429]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset
+[2016.07.13-15.52.11:034][901]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.07.13-15.52.11:034][901]PIE: New page: PIE session: Untitled_1 (Jul 13, 2016, 6:52:11 PM)
+[2016.07.13-15.52.11:034][901]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.07.13-15.52.11:035][901]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001118s)
+[2016.07.13-15.52.11:035][901]LogAIModule: Creating AISystem for world Untitled_1
+[2016.07.13-15.52.11:035][901]LogPlayLevel: PIE: World Init took: (0.000468s)
+[2016.07.13-15.52.11:035][901]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.001736s)
+[2016.07.13-15.52.11:058][901]LogInit: XAudio2 using 'Luidsprekers (Logicool G430 Gaming Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.07.13-15.52.11:064][901]LogInit: FAudioDevice initialized.
+[2016.07.13-15.52.11:172][901]LogWorld: Game class is 'VR_GameMode_C'
+[2016.07.13-15.52.11:173][901]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2016.07.13-17.52.11
+[2016.07.13-15.52.11:174][901]LogWorld: Bringing up level for play took: 0.001184
+[2016.07.13-15.52.11:214][901]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.105
+[2016.07.13-15.53.19:822][800]BlueprintLog: New page: Compile VR_Pawn
+[2016.07.13-15.53.19:879][800]BlueprintEditorCompileResults: Info [1309.75] Compile of VR_Pawn successful! [in 57 ms] (/Game/VR_Pawn.VR_Pawn)
+[2016.07.13-15.53.21:015][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Pawn" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset" SILENT=true
+[2016.07.13-15.53.21:025][932]LogSavePackage: Save=9.41ms
+[2016.07.13-15.53.21:025][932]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/VR_PawnC745B5284101AA91C35BD88C7BF965CF.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset'
+[2016.07.13-15.53.21:027][932]LogSavePackage:Display: Finished SavePackage X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/VR_Pawn.uasset
+[2016.07.13-15.53.32:952][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2016.07.13-15.53.32:953][358]PIE: New page: PIE session: Untitled_1 (Jul 13, 2016, 6:53:32 PM)
+[2016.07.13-15.53.32:953][358]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2016.07.13-15.53.32:954][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001419s)
+[2016.07.13-15.53.32:955][358]LogAIModule: Creating AISystem for world Untitled_1
+[2016.07.13-15.53.32:955][358]LogPlayLevel: PIE: World Init took: (0.000661s)
+[2016.07.13-15.53.32:955][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.002287s)
+[2016.07.13-15.53.32:977][358]LogInit: XAudio2 using 'Luidsprekers (Logicool G430 Gaming Headset)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2016.07.13-15.53.32:982][358]LogInit: FAudioDevice initialized.
+[2016.07.13-15.53.33:085][358]LogWorld: Game class is 'VR_GameMode_C'
+[2016.07.13-15.53.33:087][358]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2016.07.13-17.53.33
+[2016.07.13-15.53.33:087][358]LogWorld: Bringing up level for play took: 0.001127
+[2016.07.13-15.53.33:129][358]PIE: Info Play in editor start time for /Temp/UEDPIE_0_Untitled_1 1.019
+[2016.07.13-15.54.50:830][256]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BaseLevel" FILE="X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/BaseLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2016.07.13-15.54.50:862][256]LogSavePackage: Save=18.26ms
+[2016.07.13-15.54.50:862][256]LogSavePackage: Moving 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Saved/BaseLevel3A644036479E30C740F2A0A4F8EBE8C6.tmp' to 'X:/Users/Rutger/Documents/GitHub/BoardVR/BoardVR/Content/BaseLevel.umap'
+[2016.07.13-15.54.50:863][256]LogSavePa
