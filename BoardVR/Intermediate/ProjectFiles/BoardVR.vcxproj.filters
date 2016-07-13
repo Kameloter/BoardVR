@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\BoardVR.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{847E034E-911B-4555-B213-1AD9E52210E6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BoardVR.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\BoardVREditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{7CCAD1AB-D693-44B8-9408-CBC8209AC342}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\BoardVR">
+			<UniqueIdentifier>{C42F4628-B5B9-4C77-A878-0DFCA31C05BF}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\BoardVR\BoardVR.Build.cs">
+			<Filter>Source\BoardVR</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\BoardVR\BoardVR.cpp">
+			<Filter>Source\BoardVR</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BoardVR\BoardVR.h">
+			<Filter>Source\BoardVR</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\BoardVR\BoardVRGameMode.cpp">
+			<Filter>Source\BoardVR</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\BoardVR\BoardVRGameMode.h">
+			<Filter>Source\BoardVR</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
